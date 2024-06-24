@@ -1,0 +1,19 @@
+{
+    "data":[
+        {
+            "id":1,
+            "question":"What is react?",
+            "answer":"React is a javascript library for build in front end application or userInterface."
+        },
+        {
+            "id":2,
+            "question":"What are the advantages of react?",
+            "answer":"Reusable component, fast and efficient, Large community, Open source, Work in browser"
+        },
+        {
+            "id":3,
+            "question":"What is JSX?",
+            "answer":"JSX stands for Javascript Extensible Markup Language.JSX is a syntax extension for JavaScript that allows to write html code in react."
+        }
+    ]
+}
